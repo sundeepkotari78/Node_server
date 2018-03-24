@@ -1,0 +1,23 @@
+{
+  "name": "restapiserver",
+  "version": "1.0.0",
+  "description": "mock rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundeepkotari78/Node_server.git"
+  },
+  "keywords": [
+    "REST"
+  ],
+  "author": "sundeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sundeepkotari78/Node_server/issues"
+  },
+  "homepage": "https://github.com/sundeepkotari78/Node_server#readme"
+}
